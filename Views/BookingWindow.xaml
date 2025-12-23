@@ -1,0 +1,186 @@
+﻿<Window x:Class="RealEstateAgency.Views.BookingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        Title="Бронирование объекта" 
+        Height="550" 
+        Width="450"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <Style x:Key="InputLabelStyle" TargetType="TextBlock">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Margin" Value="0,0,0,5"/>
+        </Style>
+
+        <Style x:Key="InputTextBoxStyle" TargetType="TextBox">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Margin" Value="0,0,0,15"/>
+            <Setter Property="BorderBrush" Value="#1E3A63"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <Style x:Key="DatePickerStyle" TargetType="DatePicker">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Margin" Value="0,0,0,15"/>
+            <Setter Property="BorderBrush" Value="#1E3A63"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <Style x:Key="ErrorTextStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Red"/>
+            <Setter Property="FontSize" Value="11"/>
+            <Setter Property="Margin" Value="0,2,0,5"/>
+        </Style>
+
+        <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="0,0,0,15"/>
+            <Setter Property="BorderBrush" Value="#1E3A63"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+     
+        <Border Grid.Row="0" 
+                Background="#F0F5FF" 
+                CornerRadius="8" 
+                Padding="15"
+                Margin="0,0,0,20">
+            <StackPanel>
+                <TextBlock Text="Объект для бронирования:" 
+                           FontWeight="Bold" 
+                           FontSize="14"
+                           Foreground="#1E3A63"
+                           Margin="0,0,0,5"/>
+                <TextBlock Text="{Binding SelectedObject.Address}" 
+                           FontSize="13"
+                           TextWrapping="Wrap"
+                           FontWeight="SemiBold"/>
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                    <TextBlock Text="{Binding SelectedObject.TypeOfSubject.Name, StringFormat={}Тип: {0}}"
+                               FontSize="12"/>
+                    <TextBlock Text=" • " Margin="5,0"/>
+                    <TextBlock Text="{Binding SelectedObject.Price, StringFormat={}Цена: {0:N0} ₽}"
+                               FontSize="12"
+                               FontWeight="SemiBold"
+                               Foreground="#2E7D32"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+    
+        <StackPanel Grid.Row="1">
+      
+            <TextBlock Text="Клиент:" Style="{StaticResource InputLabelStyle}"/>
+            <ComboBox ItemsSource="{Binding Users}"
+                      SelectedValuePath="Id"
+                      SelectedValue="{Binding SelectedUserId}"
+                      Style="{StaticResource ComboBoxStyle}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="3">
+                            <TextBlock Text="{Binding FullName}" 
+                                       FontWeight="SemiBold"
+                                       FontSize="13"/>
+                            <TextBlock Text="{Binding Email}" 
+                                       FontSize="11" 
+                                       Foreground="#666666"/>
+                            <TextBlock Text="{Binding PhoneNumber, StringFormat={}Тел: {0}}" 
+                                       FontSize="11" 
+                                       Foreground="#666666"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+
+     
+            <TextBlock Text="Паспорт (серия номер):" Style="{StaticResource InputLabelStyle}"/>
+            <TextBox Text="{Binding PassportNumber, UpdateSourceTrigger=PropertyChanged}"
+                     Style="{StaticResource InputTextBoxStyle}"
+                     MaxLength="20"
+                     ToolTip="Формат: 4510 123456"/>
+
+        
+            <TextBlock Text="Контактный телефон:" Style="{StaticResource InputLabelStyle}"/>
+            <TextBox Text="{Binding PhoneNumber, UpdateSourceTrigger=PropertyChanged}"
+                     Style="{StaticResource InputTextBoxStyle}"
+                     ToolTip="Формат: +7(999)123-45-67"/>
+
+          
+            <TextBlock Text="Дата заезда:" Style="{StaticResource InputLabelStyle}"/>
+            <DatePicker SelectedDate="{Binding CheckInDate}"
+                        Style="{StaticResource DatePickerStyle}"
+                        DisplayDateStart="{x:Static system:DateTime.Today}"/>
+
+            
+            <TextBlock Text="Дата выезда:" Style="{StaticResource InputLabelStyle}"/>
+            <DatePicker SelectedDate="{Binding CheckOutDate}"
+                        Style="{StaticResource DatePickerStyle}"
+                        DisplayDateStart="{Binding CheckInDate}"/>
+        </StackPanel>
+
+      
+        <TextBlock Grid.Row="2"
+                   Text="{Binding ValidationError}"
+                   Style="{StaticResource ErrorTextStyle}"
+                   HorizontalAlignment="Center"
+                   Margin="0,10"/>
+
+        <StackPanel Grid.Row="3" 
+                    Orientation="Horizontal" 
+                    HorizontalAlignment="Right"
+                    Margin="0,20,0,0">
+            <Button Content="Отмена"
+                    Width="100"
+                    Height="40"
+                    Background="#6C757D"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    Click="CancelButton_Click"
+                    Margin="0,0,10,0"/>
+
+            <Button Content="Забронировать"
+                    Command="{Binding BookCommand}"
+                    IsEnabled="{Binding CanBook}"
+                    Width="120"
+                    Height="40"
+                    Background="#4CAF50"
+                    Foreground="White"
+                    FontWeight="Bold">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#45a049"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Background" Value="#CCCCCC"/>
+                                <Setter Property="Foreground" Value="#666666"/>
+                                <Setter Property="Cursor" Value="Arrow"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
