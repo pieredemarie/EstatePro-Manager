@@ -3,91 +3,7 @@
   "WorkspaceRootPath": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|d:\\universityfiles\\3kurs\\kpo1\\kursach\\realestateagency\\services\\pdfexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:services\\pdfexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|d:\\universityfiles\\3kurs\\kpo1\\kursach\\realestateagency\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\agentbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\agentbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\contractsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\contractsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|d:\\universityfiles\\3kurs\\kpo1\\kursach\\realestateagency\\models\\contractpdfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:models\\contractpdfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\models\\contractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:models\\contractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|d:\\universityfiles\\3kurs\\kpo1\\kursach\\realestateagency\\services\\interfaces\\ipdfexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:services\\interfaces\\ipdfexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\clientobjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\clientobjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\profitreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\profitreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\objectwithphotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\objectwithphotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|d:\\universityfiles\\3kurs\\kpo1\\kursach\\realestateagency\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\dal\\repository\\objectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:dal\\repository\\objectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\dal\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:dal\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\addedituserwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|d:\\universityfiles\\3kurs\\kpo1\\kursach\\realestateagency\\viewmodels\\addedituserwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\addedituserwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -95,8 +11,120 @@
       "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\addeditobjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\agentbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\agentbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\services\\pdfexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:services\\pdfexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\clientobjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\clientobjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\objectwithphotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\objectwithphotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\contractsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\contractsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\objectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\objectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\profitreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\profitreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\addedituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\addedituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\addedituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\addedituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\addeditobjectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\addeditobjectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\models\\contractpdfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:models\\contractpdfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\models\\contractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:models\\contractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\services\\interfaces\\ipdfexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:services\\interfaces\\ipdfexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\dal\\repository\\objectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:dal\\repository\\objectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\dal\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:dal\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\dal\\objectphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,24 +151,8 @@
       "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\addeditobjectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\addeditobjectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\addedituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\addedituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khach\\AppData\\Local\\Temp\\.vsdbgsrc\\69ebae0e8eb4dfa5168f08892015408fb13fb87ab904c83f6b94d741e2c6670c\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -266,14 +278,6 @@
       "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:models\\registerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\addedituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\addedituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\dal\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:dal\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -288,10 +292,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\dal\\sysdiagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:dal\\sysdiagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C45BF95-AEAA-464A-8652-293A1DB26B20}|RealEstateAgency.csproj|D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -309,7 +309,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -333,59 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContractService.cs",
-              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\ContractService.cs",
-              "RelativeDocumentMoniker": "Services\\ContractService.cs",
-              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\ContractService.cs",
-              "RelativeToolTip": "Services\\ContractService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T10:15:09.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContractPDFModel.cs",
-              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\ContractPDFModel.cs",
-              "RelativeDocumentMoniker": "Models\\ContractPDFModel.cs",
-              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\ContractPDFModel.cs",
-              "RelativeToolTip": "Models\\ContractPDFModel.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAABCwB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T10:10:34.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPdfExportService.cs",
-              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\Interfaces\\IPdfExportService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IPdfExportService.cs",
-              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\Interfaces\\IPdfExportService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IPdfExportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T10:04:07.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PdfExportService.cs",
-              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\PdfExportService.cs",
-              "RelativeDocumentMoniker": "Services\\PdfExportService.cs",
-              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\PdfExportService.cs",
-              "RelativeToolTip": "Services\\PdfExportService.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAmwJcAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T10:03:54.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "PropertyPathWorker.cs",
               "DocumentMoniker": "C:\\Users\\khach\\AppData\\Local\\Temp\\.vsdbgsrc\\69ebae0e8eb4dfa5168f08892015408fb13fb87ab904c83f6b94d741e2c6670c\\PropertyPathWorker.cs",
               "ToolTip": "C:\\Users\\khach\\AppData\\Local\\Temp\\.vsdbgsrc\\69ebae0e8eb4dfa5168f08892015408fb13fb87ab904c83f6b94d741e2c6670c\\PropertyPathWorker.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
@@ -407,31 +355,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
+              "Title": "AddEditUserWindow.cs",
+              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\AddEditUserWindow.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddEditUserWindow.cs",
+              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\AddEditUserWindow.cs",
+              "RelativeToolTip": "ViewModels\\AddEditUserWindow.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAMAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:54:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "Services\\ContractService.cs",
+              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\ContractService.cs",
+              "RelativeToolTip": "Services\\ContractService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:15:09.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContractPDFModel.cs",
+              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\ContractPDFModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContractPDFModel.cs",
+              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\ContractPDFModel.cs",
+              "RelativeToolTip": "Models\\ContractPDFModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABCwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:10:34.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPdfExportService.cs",
+              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\Interfaces\\IPdfExportService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPdfExportService.cs",
+              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\Interfaces\\IPdfExportService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPdfExportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:04:07.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PdfExportService.cs",
+              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\PdfExportService.cs",
+              "RelativeDocumentMoniker": "Services\\PdfExportService.cs",
+              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\PdfExportService.cs",
+              "RelativeToolTip": "Services\\PdfExportService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:03:54.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\MainWindow.xaml",
               "RelativeToolTip": "Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T11:54:13.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T11:54:13.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "AddEditObjectViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\AddEditObjectViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\AddEditObjectViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\AddEditObjectViewModel.cs",
               "RelativeToolTip": "ViewModels\\AddEditObjectViewModel.cs",
-              "ViewState": "AgIAAOoAAAAAAAAAAAA0wM4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T12:42:18.854Z"
+              "WhenOpened": "2025-12-03T12:42:18.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "BookingRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Repository\\BookingRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\BookingRepository.cs",
@@ -443,33 +454,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "BookingViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\BookingViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\BookingViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\BookingViewModel.cs",
               "RelativeToolTip": "ViewModels\\BookingViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAzwIsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T16:28:32.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "ContractsViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ContractsViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ContractsViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ContractsViewModel.cs",
               "RelativeToolTip": "ViewModels\\ContractsViewModel.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAUwCUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T13:04:29.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T13:04:29.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
               "Title": "ContractModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\ContractModel.cs",
               "RelativeDocumentMoniker": "Models\\ContractModel.cs",
@@ -477,12 +487,11 @@
               "RelativeToolTip": "Models\\ContractModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T12:51:17.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T12:51:17.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "ClassDiagram1.cd",
@@ -493,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "logo.png",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Resources\\logo.png",
               "RelativeDocumentMoniker": "Resources\\logo.png",
@@ -504,20 +513,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\RegisterViewModel.cs",
               "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAIA8wB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T14:08:24.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T14:08:24.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "NavigationService .cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\NavigationService .cs",
               "RelativeDocumentMoniker": "Services\\NavigationService .cs",
@@ -535,14 +543,14 @@
               "RelativeDocumentMoniker": "ViewModels\\AgentBookingViewmodel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\AgentBookingViewmodel.cs",
               "RelativeToolTip": "ViewModels\\AgentBookingViewmodel.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAmwLgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAywKoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T08:38:48.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "ReportService.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\ReportService.cs",
               "RelativeDocumentMoniker": "Services\\ReportService.cs",
@@ -550,12 +558,11 @@
               "RelativeToolTip": "Services\\ReportService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T18:22:06.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T18:22:06.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "IReportService.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\Interfaces\\IReportService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IReportService.cs",
@@ -567,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "ContractRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Repository\\ContractRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\ContractRepository.cs",
@@ -579,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "IContractRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Interfaces\\IContractRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IContractRepository.cs",
@@ -591,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ProfitReportViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ProfitReportViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ProfitReportViewModel.cs",
@@ -604,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "ObjectRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Repository\\ObjectRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\ObjectRepository.cs",
@@ -616,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\UserRepository.cs",
@@ -628,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Contract.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Contract.cs",
               "RelativeDocumentMoniker": "DAL\\Contract.cs",
@@ -640,19 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AddEditUserWindow.cs",
-              "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\AddEditUserWindow.cs",
-              "RelativeDocumentMoniker": "ViewModels\\AddEditUserWindow.cs",
-              "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\AddEditUserWindow.cs",
-              "RelativeToolTip": "ViewModels\\AddEditUserWindow.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T12:54:00.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "BookingModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\BookingModel.cs",
               "RelativeDocumentMoniker": "Models\\BookingModel.cs",
@@ -664,20 +659,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ClientObjectsViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ClientObjectsViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ClientObjectsViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ClientObjectsViewModel.cs",
               "RelativeToolTip": "ViewModels\\ClientObjectsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwLQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAGoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T13:31:26.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "Object.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Object.cs",
               "RelativeDocumentMoniker": "DAL\\Object.cs",
@@ -689,19 +684,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 12,
               "Title": "ObjectViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ObjectViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ObjectViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ObjectViewModel.cs",
               "RelativeToolTip": "ViewModels\\ObjectViewModel.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAQwIsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T11:25:38.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "FilterModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\FilterModel.cs",
               "RelativeDocumentMoniker": "Models\\FilterModel.cs",
@@ -713,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "ObjectModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\ObjectModel.cs",
               "RelativeDocumentMoniker": "Models\\ObjectModel.cs",
@@ -725,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "BookingWindow.xaml.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\BookingWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\BookingWindow.xaml.cs",
@@ -737,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "StatusRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Repository\\StatusRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\StatusRepository.cs",
@@ -749,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "IStatusRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Interfaces\\IStatusRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IStatusRepository.cs",
@@ -761,19 +756,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "BookingWindow.xaml",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\BookingWindow.xaml",
               "RelativeDocumentMoniker": "Views\\BookingWindow.xaml",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\BookingWindow.xaml",
               "RelativeToolTip": "Views\\BookingWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-06T16:29:44.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T16:29:44.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "IBookingRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Interfaces\\IBookingRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IBookingRepository.cs",
@@ -785,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "Booking.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Booking.cs",
               "RelativeDocumentMoniker": "DAL\\Booking.cs",
@@ -797,32 +791,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 18,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAA1wGAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAmwBUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T11:54:12.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "ObjectWithPhotoViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ObjectWithPhotoViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ObjectWithPhotoViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ObjectWithPhotoViewModel.cs",
               "RelativeToolTip": "ViewModels\\ObjectWithPhotoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:07:19.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T09:07:19.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "UserRoles.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\UserRoles.cs",
               "RelativeDocumentMoniker": "Models\\UserRoles.cs",
@@ -834,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "TypeOfSubject.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\TypeOfSubject.cs",
               "RelativeDocumentMoniker": "DAL\\TypeOfSubject.cs",
@@ -846,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "TypeOfDeal.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\TypeOfDeal.cs",
               "RelativeDocumentMoniker": "DAL\\TypeOfDeal.cs",
@@ -858,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "Status.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Status.cs",
               "RelativeDocumentMoniker": "DAL\\Status.cs",
@@ -870,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "Owner.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Owner.cs",
               "RelativeDocumentMoniker": "DAL\\Owner.cs",
@@ -882,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "AddEditObjectWindow.xaml.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\AddEditObjectWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\AddEditObjectWindow.xaml.cs",
@@ -894,19 +887,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 21,
               "Title": "AddEditObjectWindow.xaml",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\AddEditObjectWindow.xaml",
               "RelativeDocumentMoniker": "Views\\AddEditObjectWindow.xaml",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\AddEditObjectWindow.xaml",
               "RelativeToolTip": "Views\\AddEditObjectWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-03T12:37:09.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T12:37:09.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "INavigationService.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\Interfaces\\INavigationService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\INavigationService.cs",
@@ -918,32 +910,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAA1wGQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowCEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:40:41.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T08:40:41.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 20,
               "Title": "AddEditUserWindow.xaml",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\AddEditUserWindow.xaml",
               "RelativeDocumentMoniker": "Views\\AddEditUserWindow.xaml",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\AddEditUserWindow.xaml",
               "RelativeToolTip": "Views\\AddEditUserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-27T12:51:51.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T12:51:51.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 19,
               "Title": "AddEditUserWindow.xaml.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\AddEditUserWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\AddEditUserWindow.xaml.cs",
@@ -955,7 +945,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "IObjectRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Interfaces\\IObjectRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IObjectRepository.cs",
@@ -967,7 +957,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "ObjectPhoto.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\ObjectPhoto.cs",
               "RelativeDocumentMoniker": "DAL\\ObjectPhoto.cs",
@@ -979,7 +969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "TypeOfUser.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\TypeOfUser.cs",
               "RelativeDocumentMoniker": "DAL\\TypeOfUser.cs",
@@ -991,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "Services\\AuthenticationService.cs",
@@ -1003,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "sysdiagrams.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\sysdiagrams.cs",
               "RelativeDocumentMoniker": "DAL\\sysdiagrams.cs",
@@ -1015,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\User.cs",
               "RelativeDocumentMoniker": "DAL\\User.cs",
@@ -1027,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "Model1.Context.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Model1.Context.cs",
               "RelativeDocumentMoniker": "DAL\\Model1.Context.cs",
@@ -1039,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "IAuthenticationService.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Services\\Interfaces\\IAuthenticationService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthenticationService.cs",
@@ -1051,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Model1.edmx",
               "RelativeDocumentMoniker": "DAL\\Model1.edmx",
@@ -1062,7 +1052,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\DAL\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserRepository.cs",
@@ -1074,7 +1064,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\LoginWindow.xaml.cs",
@@ -1086,7 +1076,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "RegisterWindow.xaml.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\RegisterWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\RegisterWindow.xaml.cs",
@@ -1098,19 +1088,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 23,
               "Title": "RegisterWindow.xaml",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "Views\\RegisterWindow.xaml",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\RegisterWindow.xaml",
               "RelativeToolTip": "Views\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-10T14:17:28.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T14:17:28.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "RegisterData.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\RegisterData.cs",
               "RelativeDocumentMoniker": "Models\\RegisterData.cs",
@@ -1122,7 +1111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "LoginData.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\LoginData.cs",
               "RelativeDocumentMoniker": "Models\\LoginData.cs",
@@ -1134,7 +1123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 17,
               "Title": "App.config",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -1158,7 +1147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "Models\\UserModel.cs",
@@ -1170,7 +1159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\RelayCommand.cs",
               "RelativeDocumentMoniker": "ViewModels\\RelayCommand.cs",
@@ -1178,24 +1167,22 @@
               "RelativeToolTip": "ViewModels\\RelayCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T12:25:55.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T12:25:55.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T11:55:35.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T11:55:35.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 16,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
@@ -1207,41 +1194,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\Views\\LoginWindow.xaml",
               "RelativeToolTip": "Views\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T13:35:52.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T13:35:52.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\UserViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\UserViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\UserViewModel.cs",
               "RelativeToolTip": "ViewModels\\UserViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAywGYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:06:17.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T12:06:17.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
               "ToolTip": "D:\\UniversityFiles\\3KURS\\KPO1\\Kursach\\RealEstateAgency\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAswGgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T11:56:03.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T11:56:03.115Z"
             }
           ]
         }

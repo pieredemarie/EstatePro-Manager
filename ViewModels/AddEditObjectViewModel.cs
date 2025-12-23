@@ -22,7 +22,7 @@ namespace RealEstateAgency.ViewModels
         public AddEditObjectViewModel(IObjectRepository objectRepository)
         {
             _objectRepository = objectRepository;
-            _context = new RealEstateDBEntity(); // Создаем свой контекст
+            _context = new RealEstateDBEntity(); 
             Object = new DAL.Object();
             _isEditMode = false;
             Initialize();

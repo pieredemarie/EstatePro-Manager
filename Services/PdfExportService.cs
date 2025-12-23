@@ -32,8 +32,8 @@ namespace RealEstateAgency.Services
                 PdfFont font = PdfFontFactory.CreateFont(fontPath, PdfEncodings.IDENTITY_H);
                 document.SetFont(font);
 
-                // Заголовок
-                document.Add(new Paragraph("Отчет по прибыли (Комиссия)")
+                
+                document.Add(new Paragraph("Отчет по прибыли")
                     .SetTextAlignment(TextAlignment.CENTER)
                     .SetFontSize(20)
                     .SetMarginBottom(10));
