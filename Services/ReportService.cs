@@ -19,7 +19,7 @@ namespace RealEstateAgency.Services
         public List<int> GetAvailableYears()
         {
             var repo = new ContractRepository(_context);
-            // Ваша логика получения годов
+            
             var years = repo.GetAll()
                 .Where(c => c.SigningDate != null)
                 .Select(c => c.SigningDate.Year)
@@ -40,20 +40,20 @@ namespace RealEstateAgency.Services
                 .Where(c => c.SigningDate.Year == year && c.Object != null && c.Amount > 0)
                 .ToList();
 
-            // Вся математика ТУТ (включая 3%)
+            
             var groupedData = contracts
                 .GroupBy(c => c.Object?.TypeOfSubject?.Name ?? "Не указан")
                 .Select(g => new ProfitDataItem
                 {
                     ObjectTypeName = g.Key,
                     DealCount = g.Count(),
-                    Profit = g.Sum(c => c.Amount * 0.03m), // Логика комиссии
+                    Profit = g.Sum(c => c.Amount * 0.03m), 
                     Percentage = 0
                 })
                 .OrderByDescending(x => x.Profit)
                 .ToList();
 
-            // Расчет процентов
+            
             decimal total = groupedData.Sum(x => x.Profit);
             if (total > 0)
             {

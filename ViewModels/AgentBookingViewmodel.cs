@@ -203,6 +203,12 @@ namespace RealEstateAgency.ViewModels
                         var booking = context.Booking.Find(SelectedBooking.Id);
                         if (booking != null)
                         {
+                            var obj = context.Object.Find(booking.ObjectId);
+
+                            if (obj != null)
+                            {
+                                obj.StatusId = 1;
+                            }
                             context.Booking.Remove(booking);
                             context.SaveChanges();
                             Bookings.Remove(SelectedBooking);

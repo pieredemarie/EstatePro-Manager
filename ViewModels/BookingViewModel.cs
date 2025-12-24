@@ -37,7 +37,7 @@ namespace RealEstateAgency.ViewModels
 
            
             _checkInDate = DateTime.Today;
-            _checkOutDate = DateTime.Today.AddDays(1);
+            _checkOutDate = DateTime.Today.AddDays(60);
 
             InitializeCommands();
             LoadUsers();
